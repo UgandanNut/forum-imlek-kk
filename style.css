@@ -130,8 +130,8 @@ html{
     width: 20px;
     height: 20px;
     position: absolute;
-    margin-top: 26px;
-    margin-left: 43%;
+    margin-top: 90px;
+    margin-left: 60%;
 }
 
 
@@ -165,37 +165,7 @@ html{
     height: 250px;
 }
 
-.barongsai img{
-    width: 30px;
-    height: 30px;
-    position: absolute;
-    margin-top: 260px;
-    margin-left: 55%;
-}
 
-.barongsai1 img{
-    width: 30px;
-    height: 30px;
-    position: absolute;
-    margin-top: 375px;
-    margin-left: 15%;
-}
-
-.barongsai2 img{
-    width: 30px;
-    height: 30px;
-    position: absolute;
-    margin-top: 490px;
-    margin-left: 93%;
-}
-
-.barongsai3 img{
-    width: 30px;
-    height: 30px;
-    position: absolute;
-    margin-top: 655px;
-    margin-left: 50%;
-}
 
 
 
